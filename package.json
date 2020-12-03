@@ -2,7 +2,7 @@
   "name": "react-froala",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rishav2.github.io/my-app",
+  "homepage": "https://rishav2.github.io/my-new-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
